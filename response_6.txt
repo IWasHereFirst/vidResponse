@@ -1,0 +1,6 @@
+# Response to tip nr. 6
+# Collaboration
+# I think this is also caused by the facts that many people meets with the programming in young age
+# and everybody wants to be a new Bill Gates or Mark Zuckerberg. Inspired by the great future,
+# we are also scared of the code-thieves. But as soon as we find the value of god-solution-givers on
+# stackoverflow.com, it might inspire us to be more opened and help each other to share more bytes per day.
