@@ -1,0 +1,5 @@
+# Response to tip nr. 3
+# Keep it simple/consistency
+# Some over-engineering is brutal and many of us have hard time understanding the code.
+# But some of them became the "WTF" legends, like Quake 3 Algorithm:
+# https://youtu.be/p8u_k2LIZyo
